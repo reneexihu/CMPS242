@@ -1,0 +1,21 @@
+CMPS 242, Machine Learning 
+First day of class, 09 28 2017
+
+
+Matlab-check
+Octave-check
+Maple-check
+Python-check
+Jupyter Notebooks
+
+Hw1 due Thursday 10-5-17 beginning of class "need to turn in early"
+
+Overfitting: 
+Model that is "best" is not best. CH 1. In Pattern Recognition and Machine Learning. 
+
+Cross Validation methods, 
+Split Method : Wastes data, cheap
+Leave one out: expensive, doesn't waste
+K - Fold : Goldielocks for regression types, have to find K based on data. 
+
+
