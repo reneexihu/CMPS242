@@ -2,7 +2,7 @@
 ## Written by Steven Reeves, UCSC, Applied Mathematics and Statistics
 ## Batu Aytemiz UCSC Computational Media 
 ## Xi Hu UCSC, Electrical Engineering
-## September 09/29/2017
+## September 09/29/2017_1
 
 ## This script uses the vandermonde function! And the train and test data
 ## files provided by Dr. Manfred K. Warmuth CS,UCSC
